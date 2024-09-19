@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  
+}
+
+header{
+  background-color: chartreuse;
+  color: magenta;
+  text-align: center;
+  padding: 10px;
+}
+.content{
+  padding: 20px;
+}
+.introduction{
+  background-color: gold;
+  border-radius: 10px;
+  padding: 12px;
+}
+.ingredients{
+  background-color: darkgoldenrod;
+  border-radius: 10px;
+  padding: 12px;
+
+}
+h2{
+  color: red;
+}
+.Instructions{
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+footer{
+  background-color: mediumspringgreen;
+  text-align: center;
+  padding: 10px;
+}
